@@ -356,7 +356,8 @@ html {
 	margin: 0 auto;
 	padding: 16px;
 	background-color: #fff3d0;
-	color: #8d6e63;
+	color: #f05850;
+	/*color: #8d6e63;*/
 	text-align: center;
 	font-size: 14.4px;
 	border-top: 1px solid #ffd54f;
@@ -369,7 +370,8 @@ html {
 
 .about-me {
 	margin-top: 8px;
-	color: #a66a00;
+	color: #f05850;
+	/*color: #a66a00;*/
 	font-size: 14.4px;  
 }
 
@@ -410,3 +412,5 @@ html {
 		box-shadow: 0 0 16px rgba(255, 215, 0, 1);
 	}
 }
+
+/*RESPONSIVENESS*/
